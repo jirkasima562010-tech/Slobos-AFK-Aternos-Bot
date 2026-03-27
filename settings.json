@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "hellblock.aternos.me",
+    "port": 52002,
     "version": "",
     "try-creative": false
   },
